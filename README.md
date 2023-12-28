@@ -136,7 +136,11 @@ Self-hosted platforms for internal and external use.
 
 # Software
 
-Usefull tools for internal use.
+Usefull tools.
+
+## CRUD & Admin
+
+ - [Dashpress](https://github.com/dashpresshq/dashpress)
 
 ## Espatial Analysis
 
