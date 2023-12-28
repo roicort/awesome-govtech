@@ -123,6 +123,10 @@ Self-hosted platforms for internal and external use.
 
   - [OWASP](https://owasp.org)
 
+## CMS
+
+  - [Wagtail](https://wagtail.org)
+
 ## Others 
 
   - [Querido-diario](https://github.com/okfn-brasil/querido-diario)
