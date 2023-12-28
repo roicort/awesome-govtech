@@ -121,6 +121,7 @@ Self-hosted platforms for internal and external use.
 ## Others 
 
   - [Querido-diario](https://github.com/okfn-brasil/querido-diario)
+  - [Internet In A Box](https://github.com/iiab/iiab)
 
 </br>
 
