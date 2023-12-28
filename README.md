@@ -118,6 +118,10 @@ Self-hosted platforms for internal and external use.
 
   - [OWASP](https://owasp.org)
 
+## Others 
+
+  - [Querido-diario](https://github.com/okfn-brasil/querido-diario)
+
 </br>
 
 # Software
