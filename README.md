@@ -104,7 +104,7 @@ Self-hosted platforms for internal and external use.
   - [GeoNode](https://geonode.org)
   - [GeoServer](https://geoserver.org)
 
-### Data Viz
+### Data Visualization
 
   - [SuperSet](https://superset.apache.org)
   - [Grafana](https://grafana.com)
@@ -121,6 +121,10 @@ Self-hosted platforms for internal and external use.
 
 ## Cybersecurity 
 
+  - [OpenSSF](https://openssf.org/)
+    - [OpenSSF Scorecard](https://securityscorecards.dev/)
+    - [OpenSSF Sigstore](https://openssf.org/community/sigstore/)
+  - [SLSA](https://slsa.dev/)
   - [OWASP](https://owasp.org)
 
 ## CMS
@@ -151,9 +155,10 @@ Usefull tools.
 
  - [Fusio](https://www.fusio-project.org)
 
-## Espatial Analysis
+## Geospatial Analysis
 
   - [QGIS](https://qgis.org)
+  - [GRASS GIS](https://grass.osgeo.org/)
 
 ## Urban Planning
 
