@@ -57,7 +57,7 @@ By leveraging open source solutions, governments can create more transparent, co
 
 ## Manifest
 
-</br>
+Software developed by or for the government for public use should be based on open standards and open source software.
 
 # Resources
 
@@ -87,11 +87,11 @@ Self-hosted platforms for internal and external use.
 
   * #### Open Data Portals
   
-    - [CKAN](https://ckan.org/)
+    - [CKAN](https://ckan.org/) - A powerful data management system that makes data accessible – by providing tools to streamline publishing, sharing, finding and using data. CKAN is aimed at data publishers (national and regional governments, companies and organizations) wanting to make their data open and available.
   
   * #### Research Data Repository
   
-    - [Dataverse](https://dataverse.org)
+    - [Dataverse](https://dataverse.org) - An open source web application to share, preserve, cite, explore, and analyze research data.
   
   * #### Data Catalogs
   
@@ -101,40 +101,40 @@ Self-hosted platforms for internal and external use.
 
 ### Spatial Data
 
-  - [GeoNode](https://geonode.org)
-  - [GeoServer](https://geoserver.org)
+  - [GeoNode](https://geonode.org) - A web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
+  - [GeoServer](https://geoserver.org) - An open source server for sharing geospatial data.
 
 ### Data Visualization
 
-  - [SuperSet](https://superset.apache.org)
-  - [Grafana](https://grafana.com)
+  - [SuperSet](https://superset.apache.org) - A modern, enterprise-ready business intelligence web application.
+  - [Grafana](https://grafana.com) - The open observability platform.
 
 ## Citizen Participation
 
-  - [Decidim](https://decidim.org)
-  - [Consul](https://consuldemocracy.org)
-  - [FixMystreet](https://github.com/mysociety/fixmystreet)
+  - [Decidim](https://decidim.org) - A participatory democracy framework, written in Ruby on Rails, originally developed for the Barcelona City government.
+  - [Consul](https://consuldemocracy.org) - A citizen participation and open government platform, originally developed for the Madrid City government.
+  - [FixMystreet](https://github.com/mysociety/fixmystreet) - A citizen engagement platform for reporting street problems to the local authority.
     
 ## Open Government
 
-  - [Gobierto](https://github.com/PopulateTools/gobierto)
+  - [Gobierto](https://github.com/PopulateTools/gobierto) 
 
 ## Cybersecurity 
 
-  - [OpenSSF](https://openssf.org/)
+  - [OpenSSF](https://openssf.org/) - The Open Source Security Foundation (OpenSSF) is a cross-industry collaboration that brings together leaders to improve the security of open source software (OSS). OpenSSF initiatives include:
     - [OpenSSF Scorecard](https://securityscorecards.dev/)
     - [OpenSSF Sigstore](https://openssf.org/community/sigstore/)
-  - [SLSA](https://slsa.dev/)
-  - [OWASP](https://owasp.org)
+  - [SLSA](https://slsa.dev/) - Supply chain Levels for Software Artifacts (SLSA) is a framework for ensuring the integrity of software artifacts throughout the software supply chain.
+  - [OWASP](https://owasp.org) - The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.
 
 ## CMS
 
-  - [Wagtail](https://wagtail.org)
+  - [Wagtail](https://wagtail.org) - A free and open source content management system written in Python.
 
 ## Others 
 
-  - [Querido-diario](https://github.com/okfn-brasil/querido-diario)
-  - [Internet In A Box](https://github.com/iiab/iiab)
+  - [Querido-diario](https://github.com/okfn-brasil/querido-diario) - A project to scrape and make available government gazettes.
+  - [Internet In A Box](https://github.com/iiab/iiab) - A digital library of educational resources.
 
 </br>
 
@@ -144,22 +144,22 @@ Usefull tools.
 
 ## CRUD & Admin
 
- - [Dashpress](https://github.com/dashpresshq/dashpress)
+ - [Dashpress](https://github.com/dashpresshq/dashpress) - A Laravel admin panel and CRUD generator.
 
 ## DMS
 
- - [Alfresco]
- - [Papermerge](https://papermerge.com)
+ - [Alfresco](https://www.alfresco.com) - An open source content services platform.
+ - [Papermerge](https://papermerge.com) - An open source document management system (DMS) primarily designed for archiving and retrieving your digital documents.
 
 ## DEV
 
- - [Fusio](https://www.fusio-project.org)
+ - [Fusio](https://www.fusio-project.org) - An open source API management platform which helps to build and manage REST APIs.
 
 ## Geospatial Analysis
 
-  - [QGIS](https://qgis.org)
-  - [GRASS GIS](https://grass.osgeo.org/)
+  - [QGIS](https://qgis.org) - A free and open source geographic information system (GIS) application.
+  - [GRASS GIS](https://grass.osgeo.org/) - A free and open source geographic information system (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
 
 ## Urban Planning
 
-  - [StreetMix](https://streetmix.net)
+  - [StreetMix](https://streetmix.net) - A free and open source street section builder.
