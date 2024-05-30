@@ -98,11 +98,13 @@ Self-hosted platforms for internal and external use.
     - [DataHub](https://datahubproject.io)
     - [Amundsen](https://www.amundsen.io)
     - [Magda](https://magda.io)
+    - [OpenMetadata](https://open-metadata.org/)
 
 ### Spatial Data
 
   - [GeoNode](https://geonode.org) - A web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
   - [GeoServer](https://geoserver.org) - An open source server for sharing geospatial data.
+  - [PostGIS](https://postgis.net/) - Extends the capabilities of the [PostgreSQL](https://postgresql.org/) relational database by adding support for storing, indexing, and querying geospatial data.
 
 ### Data Visualization
 
@@ -140,7 +142,7 @@ Self-hosted platforms for internal and external use.
 
 # Software
 
-Usefull tools.
+Useful tools.
 
 ## CRUD & Admin
 
@@ -159,6 +161,7 @@ Usefull tools.
 
   - [QGIS](https://qgis.org) - A free and open source geographic information system (GIS) application.
   - [GRASS GIS](https://grass.osgeo.org/) - A free and open source geographic information system (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+  - [Apache Sedona](https://sedona.apache.org) - A free and open source cluster computing system for processing large-scale spatial data. 
 
 ## Urban Planning
 
