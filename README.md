@@ -166,3 +166,7 @@ Useful tools.
 ## Urban Planning
 
   - [StreetMix](https://streetmix.net) - A free and open source street section builder.
+
+## Procurement
+
+  - [OpenSAM](https://github.com/alicelabs-llc/OpenSAM) - An open source autonomous AI agent for U.S. federal contracting — SAM.gov opportunity discovery, viability scoring, and proposal drafting.
