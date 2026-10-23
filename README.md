@@ -169,4 +169,4 @@ Useful tools.
 
 ## Procurement
 
-  - [OpenSAM](https://github.com/alicelabs-llc/OpenSAM) - An open source autonomous AI agent for U.S. federal contracting — SAM.gov opportunity discovery, viability scoring, and proposal drafting.
+  - [OpenSAM](https://github.com/eddyflores100-lang/OpenSAM) - An open source autonomous AI agent for U.S. federal contracting — SAM.gov opportunity discovery, viability scoring, and proposal drafting.
