@@ -170,3 +170,7 @@ Useful tools.
 ## Procurement
 
   - [OpenSAM](https://github.com/eddyflores100-lang/OpenSAM) - An open source autonomous AI agent for U.S. federal contracting — SAM.gov opportunity discovery, viability scoring, and proposal drafting.
+
+## Accessibility & Compliance
+
+  - [PDF/UA & ADA Title II Compliance Checker](https://github.com/hadesloc/pdfua-ada-checker) - An open source MIT-licensed PDF accessibility validator powered by veraPDF 1.30 for U.S. ADA Title II (28 CFR Part 35), WCAG 2.1 AA, and ISO 14289-1 compliance.
